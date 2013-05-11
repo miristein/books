@@ -1,0 +1,29 @@
+<data version="0.0.1">
+	<books>
+		<book id="BK0000001">
+			<title>Tulák po hvězdách</title>
+			<author>Jack London</author>
+			<numberOfPages>200</numberOfPages>
+			<releaseDate>1913</releaseDate>
+			<rating>90</rating>
+			<image>tulak.png</image>
+			<categories>
+				<category>SCIFI</category>
+			</categories>
+			<origin>en</origin>
+			<description>popisek</description>
+		</book>
+		<book id="BK0000001">
+			<title>Sto roků samoty</title>
+			<author>Gabriel Garcia Marquez</author>
+			<numberOfPages>300</numberOfPages>
+			<releaseDate>1950</releaseDate>
+			<rating>90</rating>
+			<categories>
+				<category>SCIFI</category>
+				<category>DRAMA</category>
+			</categories>
+			<origin>es</origin>
+		</book>
+	</books>
+</data> 
